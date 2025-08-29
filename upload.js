@@ -73,4 +73,4 @@ const uploadVideo = async (filename) => {
 
 }
 
-uploadVideo('teste.mkv')
+uploadVideo('video.mp4')
