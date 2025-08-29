@@ -1,5 +1,4 @@
 const axios = require('axios')
-//const {v4: uuidv4} = require('uuid')
 const fs = require('fs')
 
 const API_KEY = 'API_KEY'
